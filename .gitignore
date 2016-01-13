@@ -1,0 +1,11 @@
+
+.gradle
+.idea
+.svn
+build
+
+cecelib/build
+
+cecelib/.gradle
+
+cecelib/.svn

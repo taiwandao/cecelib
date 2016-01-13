@@ -1,0 +1,77 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="lastest_update">最近更新:</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_release_label">松开以刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入…</string>
+    <string name="pull_to_refresh_refreshing_date">上次更新：%1$s</string>
+    <string name="loosen_get_more">松开获取更多</string>
+    <string name="see_more">查看更多</string>
+    <string name="data_is_complete">数据加载已完成</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在刷新&#8230;</string>
+    <string name="xlistview_header_last_time">上次更新：</string>
+    <string name="xlistview_footer_hint_normal">点击查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <!-- 答疑下拉刷新 -->
+    <string name="get_more">More</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+
+
+    <string name="error_common">操作异常，未知错误</string>
+    <string name="error_db">本地数据操作异常，请确认手机存储是否正常工作，或者卸载并重新安装应用</string>
+    <string name="error_network">网络连接异常，请稍后再试</string>
+    <string name="error_must_network">您必须要联网才能使用！</string>
+    <string name="error_auth">用户登陆超时，请尝试重新登录</string>
+    <string name="error_server_response">抱歉，服务器响应异常，请稍候再试！</string>
+    <string name="error_verfcode">验证码认证失败，请尝试重新获取验证码</string>
+    <string name="error_network_load">加载失败，点我~点我~</string>
+    <string name="error_network_load_question">题目获取异常，请检查网络</string>
+    <string name="error_question_not_found">题目不存在，请稍候重试！</string>
+    <string name="error_account_old_pwd">原密码不正确，请重新输入！</string>
+    <string name="login_account_error">账号格式不正确，请重新填写</string>
+    <string name="login_input_error">账号或密码错误，请重新填写</string>
+    <string name="login_account_noexist">账号不存在，请重新填写</string>
+    <string name="login_pwd_error">密码格式不正确，请重新填写</string>
+    <string name="system_maintenance">服务繁忙，请稍后再试或联系客服电话4000222400</string>
+    <string name="username_pwd_not_null">用户名或密码不能为空!</string>
+    <string name="username_pwd_error">用户名或密码错误!</string>
+
+    <string name="can_not_find_version_name">查不到应用版本</string>
+
+    <string name="date_today">今天</string>
+    <string name="date_yesterday">昨天</string>
+    <string name="date_day_before_yesterday">前天</string>
+    <string name="date_before_n_days">%1$s天前</string>
+    <string name="date_hour">时</string>
+    <string name="date_minute">分</string>
+    <string name="date_second">秒</string>
+
+    <string name="date_sunday">星期天</string>
+    <string name="date_monday">星期一</string>
+    <string name="date_tuesday">星期二</string>
+    <string name="date_wednesday">星期三</string>
+    <string name="date_thursday">星期四</string>
+    <string name="date_friday">星期五</string>
+    <string name="date_saturday">星期六</string>
+    <string name="date_sunday_abbreviation">日</string>
+    <string name="date_monday_abbreviation">一</string>
+    <string name="date_tuesday_abbreviation">二</string>
+    <string name="date_wednesday_abbreviation">三</string>
+    <string name="date_thursday_abbreviation">四</string>
+    <string name="date_friday_abbreviation">五</string>
+    <string name="date_saturday_abbreviation">六</string>
+    <string name="date_am_hhmm">上午%1$s</string>
+    <string name="date_noon_hhmm">中午%1$s</string>
+    <string name="date_pm_hhmm">下午%1$s</string>
+    <string name="date_early_morning_hhmm">凌晨%1$s</string>
+    <string name="date_evening_hhmm">晚上%1$s</string>
+
+    <string name="timer_format"><xliff:g id="format">%02d</xliff:g>:<xliff:g id="format">%02d</xliff:g></string>
+</resources>

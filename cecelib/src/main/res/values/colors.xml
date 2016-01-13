@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_black">#111111</color>
+    <color name="btn_red">#ba1425</color>
+    <color name="global_color_gray">#eeeeee</color>
+    <color name="text_gray">#616161</color>
+    <color name="text_white">#ffffff</color>
+    <color name="bg_toast">#D8000000</color>
+    <color name="global_color_white_gray">#e2e2e2</color>
+</resources>
