@@ -1,8 +1,9 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
+
+apply from: 'https://raw.githubusercontent.com/taiwandao/cecelib/master/build.gradle'
 apply from: 'https://raw.githubusercontent.com/taiwandao/cecelib/master/cecelib/build.gradle'
-apply from: 'https://raw.githubusercontent.com/taiwandao/cecelib/master/cecelib/cecelib/build.gradle'
 // 这个version是区分library版本的，因此当我们需要更新library时记得修改这个version
 version = "0.0.1"
 android {
